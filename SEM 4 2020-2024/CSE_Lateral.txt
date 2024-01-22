@@ -1,0 +1,25 @@
+This file is for CSE_Lateral department with roll range 12621001164 to 12621001188
+1       12621001187        Tanushree Dhali                    8.39
+2       12621001170        Deb Dutta                          8.16
+3       12621001182        Souvik Saha                        7.41
+4       12621001181        Soumyadeep Dhara                   7.34
+5       12621001185        Suman Pasi                         7.3
+6       12621001184        Subrata Laha                       7.27
+7       12621001171        Debjit Ghosh                       7.2
+8       12621001167        Arun Kumar                         6.98
+8       12621001186        Suravi Chongder                    6.98
+9       12621001179        Saroj Paul                         6.25
+10       12621001166        Anindita Chowdhury                 6.14
+11       12621001175        Indrani Sarkar                     5.82
+12       12621001177        Navanil Ray                        5.77
+13       12621001164        Abhinaba Das                       5.36
+14       12621001172        Deo Ashish Anand                   5.18
+15       12621001165        Akash Dey                          5.11
+15       12621001178        Pritam Joardar                     5.11
+16       12621001174        Gunjan Roy Pramanik                4.64
+17       12621001180        Soumadeep Chabri                   4.59
+18       12621001183        Subhranil Bhattacharya             4.36
+19       12621001173        Dipshikha Mondal                   4.25
+20       12621001176        Monojit Chatterjee                 3.73
+21       12621001169        Bhaskar Singha                     2.91
+22       12621001168        Ayan Halder                        2.23

@@ -1,0 +1,58 @@
+This file is for IT department with roll range 12620002001 to 12620002063
+1       12620002042        RIYA DAS                           9.51
+2       12620002027        ISHIKA DUTTA                       9.31
+3       12620002005        AKANKSHA MALOO                     8.98
+4       12620002011        ARGHYA DEEP PAL                    8.91
+5       12620002060        VIVEK VATSA                        8.75
+6       12620002023        DIBYENDU GHOSH                     8.71
+6       12620002059        VIKASH KUMAR                       8.71
+7       12620002043        ROBINS KUMAR DINKAR                8.62
+8       12620002020        BEDDYUTI CHATTERJEE                8.53
+8       12620002031        MD SHAFAULLAH                      8.53
+9       12620002046        SAMEEKSHA SRIRAM                   8.38
+10       12620002034        NAVNEET KUMAR                      8.33
+11       12620002028        ISHIKA SAHA                        8.31
+12       12620002055        SURAJ KUMAR GUPTA                  8.29
+13       12620002019        AYUSH JHA                          8.27
+13       12620002032        MOHIT DUJARI                       8.27
+14       12620002010        ANURAG CHOWDHURY                   8.07
+14       12620002030        MAYANK KUMAR                       8.07
+15       12620002026        HRITHIK KUMAR SHAW                 8.05
+16       12620002050        SHLOK JAIN                         8.02
+17       12620002022        DEBJYOTI HAZRA                     7.93
+17       12620002049        SATYAM                             7.93
+17       12620002057        UTKARSH KUMAR SINHA                7.93
+18       12620002058        VIKAS KUMAR                        7.89
+19       12620002025        HARSH SHARMA                       7.82
+20       12620002021        CHIRADIP CHATTERJEE                7.76
+21       12620002037        PRITI MUKHERJEE                    7.61
+22       12620002029        KAUSHIK RANA                       7.59
+23       12620002015        ASHISH KUMAR                       7.51
+24       12620002047        SATTWICK GHOSH                     7.47
+25       12620002053        SOUMINI DUTTA                      7.4
+26       12620002044        ROHIT DAS                          7.36
+27       12620002041        RITUL PRASAD                       7.33
+28       12620002003        ADITYA KUMAR                       7.31
+29       12620002033        NAMRATA SARKAR                     7.27
+30       12620002045        RUCHI KUMARI                       7.24
+30       12620002056        SWARAJ PRAKASH                     7.24
+31       12620002014        ASHISH KUMAR                       7.13
+32       12620002012        ARIJIT GUIN                        6.96
+32       12620002048        SATYA PRAKASH                      6.96
+33       12620002013        ARYAN KUMAR                        6.93
+34       12620002052        SOUMIKA SARKAR                     6.62
+35       12620002006        AMIT KUMAR JAISWAL                 6.42
+36       12620002024        GYAN RANJAN KUMAR                  6.31
+36       12620002062        ANIMESH BANERJEE                   6.31
+37       12620002002        ABHIJIT DAS                        6.2
+38       12620002007        ANAMITRA NANDI                     6.13
+38       12620002054        SOURAJIT DAS                       6.13
+39       12620002018        AYUSH GUPTA                        6.0
+40       12620002001        ABHAY KUMAR                        5.96
+41       12620002008        ANUNAY DESHMUKH                    5.76
+41       12620002009        ANUNIT RAJ                         5.76
+42       12620002004        AGNIVA BOSE                        5.71
+42       12620002035        PEMBA DORGEY BHUTIA                5.71
+43       12620002016        ASHISH PRASAD                      5.53
+44       12620002036        PIYUSH PRIYADARSHI                 4.78
+45       12620002038        PRONIT DOBE                        3.6

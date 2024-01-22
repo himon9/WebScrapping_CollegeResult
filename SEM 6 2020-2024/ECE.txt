@@ -1,0 +1,175 @@
+This file is for ECE department with roll range 12620003001 to 12620003180
+1       12620003030        ARATRIKA BHATTACHARYA              9.86
+1       12620003156        SOUMYADIP BERA                     9.86
+2       12620003043        AYAN SAHA                          9.71
+3       12620003012        AKASH RAJ                          9.64
+3       12620003015        ANANDARUP BANERJEE                 9.64
+3       12620003029        ANUSHA ADHIKARI                    9.64
+4       12620003044        AYAN SAHA                          9.57
+4       12620003136        SHINY MUKHOPADHYAY                 9.57
+4       12620003163        SRIJA KANJILAL                     9.57
+5       12620003089        NILANJANA BANIK                    9.5
+5       12620003157        SOUMYADITYA RAY                    9.5
+6       12620003002        ABANINDRA KUMAR MANDAL             9.43
+6       12620003040        ARYAN BASU                         9.43
+6       12620003096        PRIYANGSHU KAR                     9.43
+6       12620003127        SANDIPAN DAS                       9.43
+7       12620003052        BISWAROOP JOARDAR                  9.36
+7       12620003053        CHIRAYUSH CHAKRABORTY              9.36
+7       12620003098        RAHUL LAHA                         9.36
+7       12620003134        SHAILA FIONA DANIELS               9.36
+7       12620003173        SWARNADEEP SAHA                    9.36
+8       12620003019        ANINDYA CHATTERJEE                 9.31
+8       12620003147        SHUBHANGI NANDY                    9.31
+9       12620003016        ANEESH BAJORIA                     9.29
+9       12620003031        ARCHISMAN MAJUMDAR                 9.29
+9       12620003068        DIPYAMAN GOSWAMI                   9.29
+9       12620003087        NABENDU KUNDU                      9.29
+10       12620003162        SOURJA SAHA                        9.21
+10       12620003164        SUBHAJIT DAS                       9.21
+11       12620003107        RIMITA MAJUMDER                    9.19
+12       12620003130        SAUMIK SARKAR                      9.17
+13       12620003039        ARUP SARKAR                        9.14
+13       12620003072        ISHA GHOSH                         9.14
+13       12620003091        NISHANT                            9.14
+14       12620003125        SAKSHI CHOUDHARY                   9.1
+15       12620003074        KARAN SHAW                         9.05
+15       12620003081        MEGHA ROY                          9.05
+15       12620003145        SHRUTI CHAKRABORTY                 9.05
+15       12620003174        SWARNALI SAHA                      9.05
+16       12620003094        PRADIPTA SHARMA                    9.02
+17       12620003004        ABHIBHAB MITRA THAKUR              9.0
+17       12620003022        ANJALI PANDEY                      9.0
+17       12620003058        DEBOLEENA GHOSH                    9.0
+17       12620003066        DIPAK KUSHWAHA                     9.0
+17       12620003077        LICKNAN LEPCHA                     9.0
+17       12620003168        SUNETRA BANERJEE                   9.0
+18       12620003018        ANIKET DUTTA                       8.95
+18       12620003101        RAJARSHI PAUL                      8.95
+18       12620003123        SAIKAT MITRA                       8.95
+18       12620003175        SWARNAVA BHATTACHARYYA             8.95
+19       12620003003        ABHAY KUMAR                        8.93
+19       12620003082        MIHIR RAJ KESHRI                   8.93
+19       12620003088        NIKHILESH BASIL                    8.93
+20       12620003111        RISHIRAJ DUTTA                     8.9
+20       12620003158        SOUMYAJIT CHAKRABORTY              8.9
+21       12620003067        DIPANNITA DEY                      8.86
+22       12620003045        AYANAVA DAS                        8.82
+23       12620003071        INDRASISH JOARDAR                  8.81
+23       12620003171        SUVHAJIT DEBNATH                   8.81
+24       12620003097        RAHIL SENGUPTA                     8.79
+24       12620003103        RAKHI NANDI                        8.79
+24       12620003172        SWAPNENDU HAZRA                    8.79
+24       12620003178        TANUSHREE ROY                      8.79
+25       12620003102        RAJAT JANA                         8.76
+25       12620003132        SAYAN ROUTH                        8.76
+26       12620003037        ARKOPROVO GHOSH                    8.74
+27       12620003021        ANISHA YADAV                       8.71
+27       12620003144        SHRIYANS ROY                       8.71
+28       12620003141        SHREEDHOR KUNDU                    8.67
+29       12620003042        AYAN BHATTACHARJEE                 8.64
+29       12620003155        SOUMYADEEP SAHA                    8.64
+30       12620003014        ALISHA                             8.62
+30       12620003028        ANUROOP CHAKRABORTY                8.62
+31       12620003041        AVISHEK BANERJEE                   8.6
+31       12620003118        ROHAN MANDAL                       8.6
+32       12620003116        ROHAN GARG                         8.59
+33       12620003133        SHADAN ALAM                        8.55
+34       12620003038        ARPAN MUKHERJEE                    8.52
+34       12620003135        SHIBAM BANERJEE                    8.52
+35       12620003017        ANGEL SHAHA                        8.5
+35       12620003063        DEBTANU GOSWAMI                    8.5
+35       12620003117        ROHAN GHOSH                        8.5
+35       12620003165        SUBHAM GHOSH                       8.5
+36       12620003124        SAKSHI AGARWALA                    8.48
+36       12620003128        SAPTAPARNI CHATTORAJ               8.48
+36       12620003179        TITAS KUNDU                        8.48
+37       12620003035        ARITRA SENAPATI                    8.43
+37       12620003047        AYUSH KASHYAP                      8.43
+37       12620003151        SOHINI CHATTERJEE                  8.43
+38       12620003034        ARITRA SARKAR                      8.4
+38       12620003167        SUKDEB BISWAS                      8.4
+39       12620003054        DEBALEENA MONDAL                   8.33
+40       12620003115        RITVIK BORDOLOI                    8.31
+41       12620003075        KOUSHIK CHAKRABORTY                8.29
+41       12620003090        NILYANSHU NISHCHAL                 8.29
+41       12620003110        RISHAV MAITY                       8.29
+42       12620003032        ARIJIT GOSWAMI                     8.26
+42       12620003059        DEBOLENA DUTTA                     8.26
+42       12620003064        DEEPAK KUMAR RAY                   8.26
+42       12620003152        SOUMALYA GHOSH                     8.26
+43       12620003092        PAWAN KUMAR                        8.24
+44       12620003073        ISHA PAUL                          8.21
+44       12620003095        PRIYAM CHAUDHURI                   8.21
+44       12620003100        RAJ TILAK                          8.21
+44       12620003166        SUJEETESH MUKHERJEE                8.21
+45       12620003006        ABHISHEK ANAND                     8.19
+45       12620003122        SAHANA YEASMEEN                    8.19
+46       12620003033        ARITRA GHOSH                       8.14
+46       12620003131        SAYAM BANERJEE                     8.14
+47       12620003026        ANTARUPA CHAKRABORTY               8.12
+48       12620003108        RISHAV DAS                         8.1
+49       12620003020        ANIRBAN KHILARI                    8.05
+49       12620003027        ANUPAM DATTA                       8.05
+49       12620003062        DEBRUDRA BHADRA                    8.05
+50       12620003079        MONOSIJ KUNDU                      8.0
+50       12620003121        RUPAM MALAKAR                      8.0
+50       12620003148        SIDDHANTA DATTA                    8.0
+51       12620003106        RIDDHI DAS                         7.98
+52       12620003137        SHIRSHAK SAHA                      7.95
+52       12620003150        SK RUMMAN                          7.95
+52       12620003161        SOURAJIT MUKHERJEE                 7.95
+53       12620003104        RASHID AFZAL                       7.93
+53       12620003126        SAMRIT BHOWMIK                     7.93
+53       12620003140        SHOUNAK CHATTOPADHYAY              7.93
+54       12620003129        SARTHAK RAI                        7.9
+54       12620003170        SUSMITA MAITY                      7.9
+55       12620003120        RUPAM JANA                         7.88
+56       12620003069        FAISAL AHMED KHAN                  7.86
+57       12620003001        AAKASH GAURAV PATEL                7.83
+58       12620003036        ARKODEEP PODDER                    7.81
+58       12620003061        DEBOSMITA GHOSH                    7.81
+58       12620003065        DHIMAN DATTA                       7.81
+58       12620003070        GOVERDHAN KUMAR                    7.81
+59       12620003008        ABHISHEK KUMAR SINGH               7.79
+59       12620003142        SHREYA ARVIND                      7.79
+59       12620003153        SOUMIK JANA                        7.79
+60       12620003055        DEBANGSHU KANTHA                   7.76
+61       12620003083        MITHUN MISTRI                      7.69
+62       12620003024        ANSHU PRIYA                        7.64
+63       12620003078        MAINAK MITRA                       7.6
+64       12620003046        AYUSH JHA                          7.57
+64       12620003139        SHIVAM SINHA                       7.57
+65       12620003025        ANSHU RAJ                          7.55
+65       12620003146        SHUBHAM KUMAR                      7.55
+66       12620003056        DEBARGHYA FOUZDAR                  7.52
+67       12620003093        PRABHAKAR NANDAN JHA               7.5
+68       12620003010        ADARSH KUMAR                       7.48
+69       12620003051        BIBEK KUMAR MONDAL                 7.36
+70       12620003013        AKASH ROY                          7.33
+71       12620003119        ROHIT DUTTA                        7.24
+71       12620003154        SOUMO SAHA                         7.24
+72       12620003105        RATNESH KUMAR                      7.21
+72       12620003109        RISHAV KUMAR                       7.21
+73       12620003114        RITIK KUMAR                        7.17
+74       12620003084        MOHAMMAD OMAR MALLICK              7.1
+74       12620003113        RISIT SAHOO                        7.1
+75       12620003176        SYED MD RIAZ                       6.95
+76       12620003050        BARSA ROY                          6.88
+76       12620003085        MRITUNJAY KUMAR                    6.88
+77       12620003159        SOUNAK ROY CHOUDHURY               6.83
+78       12620003007        ABHISHEK KAUSHAL                   6.79
+79       12620003169        SURYASEKHAR MAJI                   6.67
+80       12620003112        RISHIRAJ SAHA                      6.6
+80       12620003177        TANISHA SINGH                      6.6
+81       12620003076        KUMAR ARPIT                        6.43
+82       12620003138        SHIRSHENDU BISWAS                  6.29
+83       12620003060        DEBOPRIYA BHOWMIK                  6.24
+84       12620003049        BAIBHAV KUMAR                      6.21
+84       12620003099        RAJ SHEKHAR                        6.21
+85       12620003023        ANJAN MANDAL                       5.5
+86       12620003080        MD TANZEEM WARSI                   5.24
+87       12620003009        ABHRADIP BHATTACHARYAY             4.86
+88       12620003005        ABHIJAT PAUL                       4.81
+89       12620003011        AHMED BILAL                        3.31
+90       12620003143        SHREYANGSHU DEB                    2.0

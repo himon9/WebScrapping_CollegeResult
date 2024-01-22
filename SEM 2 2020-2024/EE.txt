@@ -1,0 +1,56 @@
+This file is for EE department with roll range 12620016001 to 12620016061
+1       12620016015        Biswayan Chakraborty               9.39
+2       12620016043        Shilpa Chowdhury                   9.35
+3       12620016056        Swaraj Mahakur                     9.18
+4       12620016023        Isha Raj                           9.06
+5       12620016027        Krishnendu Majee                   9.04
+6       12620016020        Debopriya Goswami                  9.0
+7       12620016005        Ajitesh Parashar                   8.98
+8       12620016016        Brijesh Kumar Gupta                8.96
+8       12620016038        Rituja Bhattacharya                8.96
+9       12620016050        Subhajit Goswami                   8.9
+9       12620016060        Yugant Nayak                       8.9
+10       12620016004        Aditya Kumar Sharma                8.86
+10       12620016036        Rajat Kumar Das                    8.86
+11       12620016037        Ritesh Kumar Sah                   8.84
+12       12620016003        Abhirup Ghosh                      8.8
+12       12620016012        Arnab Haldar                       8.8
+12       12620016026        Khushboo Yaduvanshi                8.8
+13       12620016001        Abhigyan Chakraborty               8.78
+14       12620016022        Hari Kumar                         8.73
+14       12620016025        Kankona Biswas                     8.73
+15       12620016032        Pawan Kumar                        8.71
+16       12620016034        Priyadarshan Ghosh Hazra           8.69
+16       12620016058        Utsav Agarwal                      8.69
+17       12620016029        Nikita Maity                       8.67
+18       12620016033        Prapti Saha                        8.65
+18       12620016054        Suraj Kumar                        8.65
+19       12620016007        Aman Kumar                         8.61
+19       12620016013        Ayan Bhowmick                      8.61
+20       12620016014        Babua Show                         8.59
+20       12620016051        Subhajyoti Karmakar                8.59
+21       12620016019        Debolina Sarkar                    8.57
+21       12620016021        Govind Tiwari                      8.57
+21       12620016024        Ishan Saha                         8.57
+22       12620016035        Priyanshu Sarkar                   8.55
+22       12620016041        Shahbaz Hussain                    8.55
+23       12620016006        Akhilesh Kumar Yadav               8.53
+23       12620016059        Yash Raj                           8.53
+24       12620016002        Abhigyan Guha                      8.51
+24       12620016042        Shiba Pratim Nandi                 8.51
+25       12620016030        Nishant Kumar Saw                  8.47
+26       12620016049        Stouti Guha                        8.39
+27       12620016031        Pallabi Das                        8.35
+28       12620016052        Subhasish Paul                     8.31
+28       12620016055        Suraj Kumar                        8.31
+29       12620016028        Madhuwala Prakash                  8.27
+30       12620016009        Ankan Chattopadhyay.               8.24
+31       12620016047        Sourav Sarkar                      8.2
+32       12620016045        Sourav Dutta                       8.16
+32       12620016057        Ujjawal Kumar                      8.16
+33       12620016039        Sagnik Das                         8.1
+34       12620016018        Debajit Das                        7.73
+35       12620016044        Shreya Sonal                       7.45
+36       12620016046        Sourav Ghosh                       6.49
+37       12620016017        Debadrita Mallick                  4.49
+38       12620016008        Anish Das                          -1

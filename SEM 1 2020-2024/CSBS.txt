@@ -1,0 +1,57 @@
+This file is for CSBS department with roll range 12620017002 to 12620017062
+1       12620017031        Priyam Saha                        9.58
+2       12620017038        Sampurna Ghosh                     9.53
+3       12620017015        Aparajita Kumari                   9.4
+3       12620017024        Jay Joshi                          9.4
+4       12620017007        Amit Kumar Kewot                   9.28
+4       12620017052        Sumit Kumar                        9.28
+5       12620017002        Abhikarsha Sil                     9.26
+6       12620017010        Ankit Kumar                        9.21
+6       12620017016        Archisman Mukherjee                9.21
+6       12620017020        Debayan Kumar Ghosh                9.21
+6       12620017023        Himanshu Rai                       9.21
+6       12620017027        Md Farhan Sajid                    9.21
+7       12620017021        Govind Thakur                      9.12
+7       12620017028        Moni Kumari                        9.12
+7       12620017032        Proteen Kumar Das                  9.12
+7       12620017043        Shradhnand Kr.                     9.12
+8       12620017035        Rik Saha                           9.09
+9       12620017019        Ayushmaan Sural                    9.05
+9       12620017022        Gulshan Kumar                      9.05
+9       12620017046        Singthi Saniya                     9.05
+9       12620017047        Soham Bhattacharyya                9.05
+9       12620017057        Tushar Jain                        9.05
+10       12620017051        Sukanya Aguan                      8.95
+11       12620017045        Shreya Chatterjee                  8.93
+11       12620017055        Tamoghna Sadhukhan                 8.93
+12       12620017026        Mayukh Mondal                      8.91
+12       12620017048        Soumyadeep Dandapat                8.91
+13       12620017017        Aritrajit Das                      8.84
+13       12620017061        Md. Zeeshan                        8.84
+14       12620017030        Nishit Killa                       8.77
+15       12620017014        Anustup Chakraborty                8.72
+16       12620017008        Anirban Dutta                      8.67
+17       12620017025        Mariam Meerza                      8.65
+17       12620017036        Riteek Rakesh                      8.65
+17       12620017040        Sayantan Bose                      8.65
+18       12620017011        Ankit Kumar                        8.63
+19       12620017050        Sriya Das                          8.6
+20       12620017060        Yuvraj Anand                       8.58
+21       12620017013        Anshuman Dhan                      8.51
+22       12620017004        Adri Karmakar                      8.49
+23       12620017005        Adroha Nath                        8.47
+24       12620017009        Anirudh Ray                        8.42
+25       12620017049        Sreeleena Ganguli                  8.35
+26       12620017053        Suraj Singh                        8.28
+27       12620017003        Abir Roy                           8.26
+28       12620017054        Sushmita Singh                     8.21
+29       12620017029        Neelavra Dutta                     8.14
+30       12620017034        Rahul Adhikary                     8.12
+31       12620017056        Tathagata Bose                     8.07
+32       12620017012        Ankush Kumar Tommer                7.98
+32       12620017037        Ruchika Tandon                     7.98
+33       12620017006        Amandeep Nayan Singh               7.65
+34       12620017059        Yash Nahata                        7.51
+35       12620017058        Utkarsh Didwania                   7.44
+36       12620017042        Sharanya Pal                       7.28
+37       12620017039        Sayan Bakshi                       6.74

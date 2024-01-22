@@ -1,0 +1,103 @@
+This file is for CE department with roll range 12620013001 to 12620013105
+1       12620013074        Sankhadip Rang                     10.0
+2       12620013043        Koushani Datta                     9.49
+2       12620013061        Rimpa Chail                        9.49
+3       12620013069        Sakshi Choudhary                   9.4
+4       12620013100        Upama Bhadra                       9.37
+5       12620013025        Bhaswati Mandal                    9.33
+6       12620013077        Satyapriya Mahato                  9.3
+6       12620013091        Srijita Dinda                      9.3
+7       12620013084        Shrestha Ghosh                     9.28
+7       12620013088        Soumyadip Das                      9.28
+8       12620013049        Neha Majumdar                      9.26
+8       12620013092        Srikant                            9.26
+9       12620013103        Uttarayan Mondal                   9.21
+10       12620013033        Fardeen Hossain Khan               9.19
+10       12620013041        Kaustuv Mitra                      9.19
+11       12620013004        Adarsh Kumar                       9.16
+12       12620013064        Rounak Kole                        9.14
+12       12620013070        Samrat Banik                       9.14
+13       12620013039        Jayabrata Saha                     9.12
+13       12620013067        Sahana Roy Chowdhury               9.12
+13       12620013082        Shraddha Sinha                     9.12
+13       12620013087        Sonali                             9.12
+14       12620013029        Debarshi Roychowdhury              9.09
+15       12620013031        Devkant Kumar                      9.07
+15       12620013038        Hriju Banerjee                     9.07
+16       12620013008        Akash Chakraborty                  9.05
+17       12620013035        Harsh Kumar                        8.98
+18       12620013024        Ayush Kumar                        8.95
+18       12620013073        Sanjukta  Banerjee                 8.95
+19       12620013065        Rounak Saha                        8.93
+19       12620013101        Urmi Pandit                        8.93
+20       12620013005        Aditya Sahu                        8.91
+20       12620013063        Ritu Raj                           8.91
+21       12620013013        Anjali Kumari                      8.86
+21       12620013018        Aritra Paul                        8.86
+22       12620013028        Debarghya Sarkar                   8.84
+22       12620013062        Rishikesh Nandy                    8.84
+23       12620013085        Shubham  Kumar                     8.81
+24       12620013030        Devayan Biswas                     8.79
+24       12620013102        Utsav Pal                          8.79
+25       12620013015        Arihant Kumar Chourasia            8.77
+25       12620013016        Arindam Ghosh                      8.77
+25       12620013026        Bikash Paul                        8.77
+26       12620013053        Pawan Kumar                        8.74
+26       12620013079        Shashi Kumar Raj                   8.74
+27       12620013099        Tanima Das                         8.65
+28       12620013023        Atandra Bharati                    8.63
+28       12620013034        Harsh Kumar                        8.63
+28       12620013040        Karan Thakur                       8.63
+28       12620013057        Prithviraj Roy                     8.63
+29       12620013020        Arpan Khanra                       8.6
+29       12620013054        Piyush Kumar                       8.6
+29       12620013059        Rajeev Raj                         8.6
+29       12620013097        Sundram Kumar                      8.6
+30       12620013050        Nilesh Ram                         8.58
+30       12620013094        Sumangal Sarkar                    8.58
+31       12620013009        Amarjeet Kumar                     8.56
+31       12620013036        Harshit Kant                       8.56
+31       12620013060        Ramit Pramanick                    8.56
+32       12620013002        Abhijit Srivastava                 8.51
+32       12620013007        Aishik Roy                         8.51
+32       12620013011        Amit Yadav                         8.51
+32       12620013045        Md Aadil                           8.51
+33       12620013003        Abhishek Jha                       8.49
+33       12620013017        Aritra Biswas                      8.49
+33       12620013027        Chandan Kumar                      8.49
+33       12620013090        Sovan Roy                          8.49
+34       12620013021        Ashutosh Kumar                     8.47
+34       12620013046        Md Arbaz Ansari                    8.47
+34       12620013068        Sahil Kumar                        8.47
+34       12620013071        Samrat Nandi                       8.47
+34       12620013078        Saurabh Kumar Prasad               8.47
+35       12620013012        Ananya Priya                       8.42
+35       12620013042        Komesh Kumar Mahto                 8.42
+35       12620013096        Sumit Kumar                        8.42
+36       12620013048        Md Mustufa Faisal                  8.4
+36       12620013075        Satyam                             8.4
+37       12620013022        Ashutosh Kumar                     8.37
+37       12620013104        Vishwaranjan                       8.37
+38       12620013058        Pushkar Kumar                      8.35
+38       12620013083        Shraman Joardar                    8.35
+39       12620013001        Abhay Saha                         8.33
+40       12620013006        Adnan Ahad                         8.3
+41       12620013014        Arif Hussain                       8.28
+42       12620013044        Kushmankar                         8.26
+42       12620013052        Parthiba Dutta Choudhury           8.26
+43       12620013076        Satyam Sahil                       8.14
+43       12620013080        Shiva Ojha                         8.14
+44       12620013086        Sk Sahil Tarafder                  8.02
+44       12620013093        Sujit Kumar Mahato                 8.02
+45       12620013010        Amay Raj                           8.0
+46       12620013047        Md Danish Ansari                   7.98
+47       12620013066        Sagar Kumar                        7.95
+48       12620013098        Tajammul Hassan                    7.88
+49       12620013081        Shivesh Kumar                      7.81
+50       12620013055        Pratick Dutta                      7.7
+51       12620013089        Souvik Acharya                     7.65
+52       12620013037        Himanshu Upadhyay                  7.63
+53       12620013095        Sumit Das                          7.56
+54       12620013019        Arkadip Paul                       7.53
+55       12620013032        Dipayan Maji                       5.49
+56       12620013056        Prince Kumar Gupta                 -1

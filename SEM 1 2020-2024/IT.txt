@@ -1,0 +1,59 @@
+This file is for IT department with roll range 12620002001 to 12620002063
+1       12620002011        Arghya Deep Pal                    10.0
+2       12620002037        Priti Mukherjee                    9.77
+3       12620002057        Utkarsh Kumar Sinha                9.72
+4       12620002060        Vivek Vatsa                        9.67
+5       12620002042        Riya Das                           9.65
+6       12620002020        Beddyuti Chatterjee                9.63
+7       12620002028        Ishika Saha                        9.58
+7       12620002029        Kaushik Rana                       9.58
+7       12620002059        Vikash Kumar                       9.58
+8       12620002005        Akanksha Maloo                     9.53
+8       12620002012        Arijit Guin                        9.53
+8       12620002026        Hrithik Kumar Shaw                 9.53
+9       12620002023        Dibyendu Ghosh                     9.51
+10       12620002017        Ayan Sinha                         9.49
+10       12620002027        Ishika Dutta                       9.49
+10       12620002031        Md Shafaullah                      9.49
+10       12620002043        Robins Kumar Dinkar                9.49
+11       12620002024        Gyan Ranjan Kumar                  9.44
+11       12620002047        Sattwick Ghosh                     9.44
+11       12620002048        Satya Prakash                      9.44
+12       12620002010        Anurag Chowdhury                   9.4
+12       12620002022        Debjyoti Hazra                     9.4
+12       12620002032        Mohit Dujari                       9.4
+13       12620002035        Pemba Dorgey Bhutia                9.37
+14       12620002058        Vikas Kumar                        9.35
+15       12620002006        Amit Kumar Jaiswal                 9.3
+15       12620002013        Aryan Kumar                        9.3
+15       12620002041        Ritul Prasad                       9.3
+16       12620002004        Agniva Bose                        9.28
+16       12620002053        Soumini Dutta                      9.28
+17       12620002046        Sameeksha Sriram                   9.26
+17       12620002051        Shruhita Pal                       9.26
+18       12620002021        Chiradip Chatterjee                9.23
+19       12620002033        Namrata Sarkar                     9.21
+19       12620002038        Pronit Dobe                        9.21
+19       12620002045        Ruchi Kumari                       9.21
+19       12620002050        Shlok Jain                         9.21
+20       12620002003        Aditya Kumar                       9.16
+20       12620002009        Anunit Raj                         9.16
+20       12620002014        Ashish Kumar                       9.16
+20       12620002049        Satyam                             9.16
+20       12620002055        Suraj Kumar Gupta                  9.16
+21       12620002019        Ayush Jha                          9.12
+22       12620002015        Ashish Kumar                       9.09
+23       12620002007        Anamitra Nandi                     9.07
+23       12620002044        Rohit Das                          9.07
+24       12620002025        Harsh Sharma                       9.02
+24       12620002034        Navneet Kumar                      9.02
+25       12620002002        Abhijit Das                        8.95
+25       12620002030        Mayank Kumar                       8.95
+26       12620002054        Sourajit Das                       8.88
+27       12620002018        Ayush Gupta                        8.74
+28       12620002036        Piyush Priyadarshi                 8.51
+29       12620002008        Anunay Deshmukh                    8.42
+29       12620002016        Ashish Prasad                      8.42
+30       12620002001        Abhay Kumar                        8.35
+31       12620002052        Soumika Sarkar                     7.86
+32       12620002056        Swaraj Prakash                     5.91

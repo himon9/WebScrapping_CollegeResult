@@ -1,0 +1,54 @@
+1       12620016043        SHILPA CHOWDHURY                   9.73
+2       12620016015        BISWAYAN CHAKRABORTY               9.67
+3       12620016007        AMAN KUMAR                         9.5
+3       12620016012        ARNAB HALDAR                       9.5
+4       12620016026        KHUSHBOO YADUVANSHI                9.45
+5       12620016038        RITUJA BHATTACHARYA                9.42
+6       12620016037        RITESH KUMAR SAH                   9.41
+7       12620016003        ABHIRUP GHOSH                      9.32
+8       12620016004        ADITYA KUMAR SHARMA                9.27
+8       12620016020        DEBOPRIYA GOSWAMI                  9.27
+8       12620016054        SURAJ KUMAR                        9.27
+9       12620016056        SWARAJ MAHAKUR                     9.23
+10       12620016002        ABHIGYAN GUHA                      9.14
+10       12620016009        ANKAN CHATTOPADHYAY.               9.14
+10       12620016023        ISHA RAJ                           9.14
+10       12620016031        PALLABI DAS                        9.14
+10       12620016035        PRIYANSHU SARKAR                   9.14
+10       12620016036        RAJAT KUMAR DAS                    9.14
+10       12620016045        SOURAV DUTTA                       9.14
+10       12620016051        SUBHAJYOTI KARMAKAR                9.14
+11       12620016017        DEBADRITA MALLICK                  9.09
+11       12620016028        MADHUWALA PRAKASH                  9.09
+11       12620016059        YASH RAJ                           9.09
+12       12620016050        SUBHAJIT GOSWAMI                   9.05
+13       12620016001        ABHIGYAN CHAKRABORTY               9.0
+13       12620016019        DEBOLINA SARKAR                    9.0
+13       12620016022        HARI KUMAR                         9.0
+14       12620016005        AJITESH PARASHAR                   8.95
+14       12620016016        BRIJESH KUMAR GUPTA                8.95
+14       12620016029        NIKITA MAITY                       8.95
+14       12620016032        PAWAN KUMAR                        8.95
+14       12620016033        PRAPTI SAHA                        8.95
+14       12620016044        SHREYA SONAL                       8.95
+14       12620016052        SUBHASISH PAUL                     8.95
+15       12620016013        AYAN BHOWMICK                      8.91
+16       12620016025        KANKONA BISWAS                     8.86
+17       12620016014        BABUA SHOW                         8.68
+17       12620016055        SURAJ KUMAR                        8.68
+18       12620016027        KRISHNENDU MAJEE                   8.64
+18       12620016034        PRIYADARSHAN GHOSH HAZRA           8.64
+19       12620016021        GOVIND TIWARI                      8.59
+19       12620016049        STOUTI GUHA                        8.59
+19       12620016058        UTSAV AGARWAL                      8.59
+19       12620016060        YUGANT NAYAK                       8.59
+20       12620016006        AKHILESH KUMAR YADAV               8.55
+21       12620016030        NISHANT KUMAR SAW                  8.45
+22       12620016018        DEBJIT DAS                         8.32
+22       12620016042        SHIBA PRATIM NANDI                 8.32
+23       12620016041        SHAHBAZ HUSSAIN                    8.14
+24       12620016046        SOURAV GHOSH                       8.09
+24       12620016057        UJJAWAL KUMAR                      8.09
+25       12620016047        SOURAV SARKAR                      7.68
+26       12620016024        ISHAN SAHA                         7.5
+26       12620016039        SAGNIK DAS                         7.5

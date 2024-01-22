@@ -87,9 +87,9 @@
 28       12620001034        ASMITA BANERJEE                    9.04
 28       12620001051        DEBASMITA SAHA                     9.04
 28       12620001090        PUBAYAN SANYAL                     9.04
-29       12620001111        ROUDRANIL KAR                      9
-29       12620001142        SHUBHAM KUMAR                      9
-29       12620001165        SUNDAR KUMAR GUPTA                 9
+29       12620001111        ROUDRANIL KAR                      9.0
+29       12620001142        SHUBHAM KUMAR                      9.0
+29       12620001165        SUNDAR KUMAR GUPTA                 9.0
 30       12620001026        ANURAG SINGH                       8.98
 30       12620001160        SUKANYA CHAKRAVORTY                8.98
 31       12620001003        ABHIJEET KUMAR                     8.96

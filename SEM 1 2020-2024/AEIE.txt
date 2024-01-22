@@ -1,0 +1,61 @@
+This file is for AEIE department with roll range 12620005001 to 12620005062
+1       12620005036        Riya Singh                         9.77
+2       12620005017        Ayana Samanta                      9.63
+2       12620005023        Disha Mondal                       9.63
+3       12620005010        Anjali Kumari                      9.58
+3       12620005013        Aratrik Mukherjee                  9.58
+3       12620005038        Sampriti Mukherjee                 9.58
+3       12620005052        Souvik Chaudhury                   9.58
+3       12620005055        Suman Dey                          9.58
+4       12620005012        Anurag Baral                       9.53
+4       12620005047        Shreyasi Chowdhury                 9.53
+5       12620005027        Ishan Banerjee                     9.51
+6       12620005028        Ishan Trivedi                      9.49
+7       12620005049        Soumik Roy Choudhury               9.44
+8       12620005008        Amrit Raj                          9.42
+8       12620005041        Sayak Roy                          9.42
+9       12620005034        Prithwish Ray Chaudhuri            9.4
+10       12620005005        Akshit Tibrewal                    9.37
+11       12620005018        Ayantika Majumder                  9.33
+11       12620005029        Ishika Nandy                       9.33
+12       12620005042        Sayambhu Choudhury                 9.3
+13       12620005056        Suramyaa Sarkar                    9.23
+14       12620005016        Avinash Kumar Chaudhary            9.21
+14       12620005032        Pallavi Jha                        9.21
+14       12620005050        Soumyadip Pahari                   9.21
+15       12620005020        Darshana Parakh                    9.19
+15       12620005054        Srijan Routh Roy                   9.19
+15       12620005057        Swastik Paul                       9.19
+16       12620005009        Aniket Bose                        9.14
+16       12620005043        Shagufta Tarannum                  9.14
+17       12620005003        Abirbhab Boral                     9.09
+18       12620005031        Jeet Sadhukhan                     9.07
+18       12620005060        Yogesh Rajpurohit                  9.07
+19       12620005040        Saunak Chatterjee                  9.05
+20       12620005024        Divyam Raj                         9.02
+21       12620005053        Sraddha Chakraborty                9.0
+22       12620005019        Ayush Anand                        8.98
+22       12620005033        Pratyush De                        8.98
+22       12620005044        Shivendra Singh                    8.98
+22       12620005046        Shreya Ghosh                       8.98
+23       12620005007        Amartya Pattanayak                 8.95
+24       12620005004        Akash Roy                          8.93
+24       12620005006        Amantika Sharma                    8.93
+24       12620005011        Ankit Kumar                        8.93
+24       12620005061        Yshan Roy                          8.93
+25       12620005002        Abhishek Vishal                    8.88
+26       12620005015        Ashish Kumar                       8.86
+27       12620005022        Dibyajyoti Das                     8.84
+28       12620005058        Ujjwal Kumar                       8.65
+29       12620005026        Harsh Raj                          8.63
+30       12620005014        Arif Alam                          8.58
+31       12620005048        Soham Roy                          8.56
+32       12620005025        Harsh Agarwal                      8.44
+33       12620005059        Utsav Bose                         8.33
+34       12620005039        Sarthak Nirmal                     8.21
+35       12620005051        Souradeep Mistry                   8.07
+36       12620005035        Rajarshi Mondal                    7.98
+37       12620005030        Jainendra Tater                    7.56
+38       12620005045        Shourja Chakraborty                7.33
+39       12620005021        Debaditya Samanta                  7.23
+40       12620005001        Abhinav Kumar                      7.12

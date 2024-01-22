@@ -1,0 +1,177 @@
+1       12618001034         ARCHI CHOMAL                      10.0
+2       12618001054         DEBDEEP MUKHERJEE                 9.94
+3       12618001017         AMISHA JODHANI                    9.83
+3       12618001114         RUPAYAN DEB                       9.83
+4       12618001031         ANUBHAB DAS                       9.72
+5       12618001186         YUKTY KHANDELIA                   9.67
+6       12618001086         MRIDUL MOHATA                     9.61
+7       12618001133         SAYANTAN SINHA                    9.5
+7       12618001154         SOUMYA AKHULI                     9.5
+8       12618001012         ADITYA PRATAP SAHA                9.44
+9       12618001020         ANIKET AGARWAL                    9.39
+9       12618001077         MANISH SINGH                      9.39
+9       12618001079         MANJARI NANDI MAJUMDAR            9.39
+9       12618001125         SARIM ALI KHAN                    9.39
+9       12618001132         SAYANTAN PAL                      9.39
+10       12618001050         CHANDRACHUR BANERJEE              9.33
+10       12618001078         MANISHA AGARWAL                   9.33
+11       12618001145         SIBARATI DAS                      9.28
+12       12618001027         ANKIT RAJ                         9.22
+12       12618001036         ARGHYA SAHA                       9.22
+12       12618001085         MOHINI SHARMA                     9.22
+13       12618001117         SAGNIK SAMADDAR                   9.17
+14       12618001043         ATUL KUMAR                        9.11
+14       12618001115         RUPKATHA DAS                      9.11
+14       12618001163         SUBHAM BHATTACHARJEE              9.11
+15       12618001025         ANKIT GAURAV                      9.06
+16       12618001161         SRINJOY PAUL                      9.0
+17       12618001003         ABHIJEET KUMAR VERMA              8.94
+17       12618001071         KUMAR SAJAL                       8.94
+17       12618001087         MUSKAAN MAURYA                    8.94
+17       12618001170         SUMAN MUKHERJEE                   8.94
+18       12618001011         ADITI MOULIK                      8.89
+18       12618001015         AKSHAY ANAND                      8.89
+18       12618001039         ASHISH DWIVEDI                    8.89
+18       12618001106         RAMAN KUMAR                       8.89
+19       12618001121         SAMPURNA ROY                      8.83
+19       12618001142         SHREYANSH DOSHI                   8.83
+20       12618001060         GAUTAM JAIN                       8.78
+20       12618001102         PRERONA DHAR                      8.78
+20       12618001157         SOUVICK ROY                       8.78
+21       12618001005         ABHISHEK KUMAR RANJAN             8.72
+21       12618001022         ANIMESH DEY                       8.72
+21       12618001073         MAHAK SINGHANIA                   8.72
+21       12618001074         MAMTU RAJA                        8.72
+21       12618001084         MD YASSER ARAFAT JAWAID           8.72
+21       12618001153         SOUMITA BHATTACHARYYA             8.72
+21       12618001183         VINEET KUMAR                      8.72
+22       12618001007         ABHRANIL GOSWAMI                  8.67
+22       12618001057         DIYA BANERJEE                     8.67
+22       12618001059         GAURAV TULSHIAN                   8.67
+22       12618001088         NAMAN AGARWAL                     8.67
+22       12618001159         SOUVIK GOON                       8.67
+23       12618001009         ADARSH RAJ                        8.61
+23       12618001104         PUSHAN PORE                       8.61
+23       12618001171         SUMIT SARKAR                      8.61
+24       12618001016         AMAN KUMAR                        8.56
+24       12618001028         ANKITA ROOJ                       8.56
+24       12618001046         BIBEK MONDAL                      8.56
+24       12618001055         DIVYA GOSWAMI                     8.56
+24       12618001063         HRITIK VIJAY                      8.56
+24       12618001111         RITWIKA MUKHERJEE                 8.56
+24       12618001147         SIDDHANTH CHATTERJEE              8.56
+24       12618001158         SOUVIK BARUA                      8.56
+25       12618001001         ABHIGYAN KARMAKAR                 8.5
+25       12618001056         DIVYANSHU SHEKHAR                 8.5
+25       12618001094         PALLAVI                           8.5
+25       12618001116         SAGARIKA                          8.5
+25       12618001119         SAMARJIT GHOSH                    8.5
+25       12618001176         SUSHIL KUMAR                      8.5
+25       12618001185         VISHAL KUMAR                      8.5
+26       12618001006         ABHISHEK SEN                      8.44
+26       12618001018         AMIT KUMAR                        8.44
+26       12618001122         SANDEEP PAUL                      8.44
+26       12618001131         SAYANTAN MISHRA                   8.44
+26       12618001172         SUNNY KUMAR                       8.44
+27       12618001014         AKASHDEEP DAS                     8.39
+27       12618001045         AYUSH RAJ                         8.39
+27       12618001101         PRAVEEN KUMAR                     8.39
+27       12618001112         ROHIT KHEMKA                      8.39
+27       12618001137         SHINJOHN GHOSH                    8.39
+27       12618001139         SHRESTH MISHRA                    8.39
+27       12618001166         SUBHASHIS BATOBYAL                8.39
+28       12618001008         ADARSH RAJ                        8.33
+28       12618001042         ASHUTOSHKUMAR DINESHKUMAR DAS     8.33
+28       12618001062         HRITICK ROY                       8.33
+28       12618001080         MANMOHAN KUMAR                    8.33
+28       12618001110         RITAYAN DAS                       8.33
+28       12618001138         SHIVAM KUMAR                      8.33
+28       12618001152         SOUMIL BOSE                       8.33
+28       12618001156         SOURABH KUMAR SHARMA              8.33
+29       12618001047         BISHAKH SIKDER                    8.28
+29       12618001070         KSHITIJ                           8.28
+29       12618001082         MAYUKH MITRA                      8.28
+29       12618001096         PRASHANSA AGARWAL                 8.28
+29       12618001174         SUPRIYA KUMARI                    8.28
+30       12618001021         ANIKET RAJ                        8.22
+30       12618001037         ARIJIT ROY                        8.22
+30       12618001049         BISWANATH PRASAD SHARMA           8.22
+30       12618001109         RISHAV KUMAR                      8.22
+31       12618001048         BISWADEEP BHOWAL                  8.17
+31       12618001090         NIRAJ MALPANI                     8.17
+31       12618001124         SANTOSH KUMAR                     8.17
+31       12618001130         SAYANTAN BISWAS                   8.17
+31       12618001175         SURHIT SUVRA CHAKRABORTY          8.17
+31       12618001177         TANMAY DAS                        8.17
+32       12618001029         ANKITA VERMA                      8.11
+32       12618001151         SOUMIL BASAK                      8.11
+33       12618001030         ANSHU RAJ                         8.06
+33       12618001038         ARITRA SAHA                       8.06
+33       12618001066         ISHITWA CHAKRABORTY               8.06
+33       12618001149         SOUHARDYA BHOWMICK                8.06
+34       12618001081         MAYANK MONU                       8.0
+34       12618001103         PRIYAM MAJUMDER                   8.0
+34       12618001107         RAVI GUPTA                        8.0
+34       12618001128         SAURABH KUMAR                     8.0
+34       12618001150         SOUMI NANDY                       8.0
+34       12618001182         VIKASH KUMAR                      8.0
+35       12618001023         ANINDYA CHATTERJEE                7.94
+35       12618001064         INDRANIL PAUL                     7.94
+35       12618001135         SHASHANK KUMAR                    7.94
+35       12618001173         SUNNY KUMAR MISHRA                7.94
+36       12618001053         DEBDEEP BARDHAN                   7.89
+36       12618001075         MANISH AGARWAL                    7.89
+37       12618001010         ADDHYAN DAS                       7.83
+37       12618001091         OISHIKI ROY                       7.83
+38       12618001076         MANISH KUMAR OJHA                 7.78
+38       12618001093         OMAMA BASHIR                      7.78
+38       12618001178         TARIQUE NOMANI                    7.78
+39       12618001041         ASHUTOSH JHA                      7.72
+39       12618001126         SATYAM KUMAR                      7.72
+39       12618001127         SATYAM KUMAR SINGH                7.72
+40       12618001105         RAJARSEE CHATTOPADHYAY            7.67
+40       12618001118         SAKSHI GAUTAM                     7.67
+40       12618001164         SUBHAM SARKAR                     7.67
+41       12618001024         ANKIT ANAND                       7.61
+41       12618001098         PRATEEK SINGH                     7.61
+41       12618001129         SAURAV KUMAR                      7.61
+41       12618001162         SUBHAJIT MANNA                    7.61
+42       12618001013         AKASH KUMAR                       7.56
+42       12618001089         NAWIN KUMAR                       7.56
+42       12618001134         SHAMIK BHATTACHARJEE              7.56
+42       12618001136         SHASHANK SAHU                     7.56
+42       12618001167         SUDIP BHUNIA                      7.56
+43       12618001004         ABHINAY KUMAR                     7.5
+44       12618001033         ANUJ KUMAR MISHRA                 7.44
+44       12618001155         SOUMYA HAZRA                      7.44
+45       12618001051         CHANDRIMA GHORA                   7.33
+45       12618001169         SUKANYA V JOSHI                   7.33
+46       12618001065         ISHAAN SENGUPTA                   7.28
+46       12618001143         SHUBHOJIT CHOWDHURY               7.28
+46       12618001179         UJJWAL KUMAR SINGH                7.28
+47       12618001141         SHREYANS JAIN                     7.22
+47       12618001184         VINEET PATEL                      7.22
+48       12618001002         ABHIJEET ARYA                     7.17
+48       12618001032         ANUJ KUMAR MISHRA                 7.17
+48       12618001160         SOUVIK MUKHERJEE                  7.17
+49       12618001092         OM                                7.11
+50       12618001113         RUDRA SHARANS                     7.06
+51       12618001058         GAURAV KUMAR                      6.94
+52       12618001095         PRANAY GHOSH                      6.89
+52       12618001099         PRATIKSHA                         6.89
+53       12618001026         ANKIT KUMAR                       6.78
+53       12618001035         ARGHA SADHU                       6.78
+53       12618001061         GOVIND KUMAR JHA                  6.78
+53       12618001140         SHREYA CHATTERJEE                 6.78
+54       12618001108         RIPU RANJAN                       6.67
+54       12618001120         SAMIRAN KUNDU                     6.67
+54       12618001181         VIJAY KUMAR                       6.67
+55       12618001052         DEBAPRIYA DEY                     6.61
+55       12618001100         PRATYUSH BANERJEE                 6.61
+56       12618001044         AVIRAJ                            6.5
+56       12618001180         UMEESHA SINGH                     6.5
+57       12618001019         ANAND KUMAR JHA                   6.39
+58       12618001067         JAI NARAYAN SINGH                 6.28
+59       12618001068         JAYKANT SHARMA                    6.06
+60       12618001083         MD HAMMAD HAIDER                  5.94
+61       12618001146         SIDDHANT NAREDI                   2.5

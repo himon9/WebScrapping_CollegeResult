@@ -1,0 +1,24 @@
+1       12621001182        Souvik Saha                        9.44
+2       12621001171        Debjit Ghosh                       9.32
+3       12621001167        Arun Kumar                         9.22
+4       12621001187        Tanushree Dhali                    9.16
+5       12621001185        Suman Pasi                         9.04
+6       12621001166        Anindita Chowdhury                 8.98
+7       12621001184        Subrata Laha                       8.92
+8       12621001175        Indrani Sarkar                     8.88
+9       12621001177        Navanil Ray                        8.84
+10       12621001179        Saroj Paul                         8.82
+11       12621001181        Soumyadeep Dhara                   8.8
+12       12621001164        Abhinaba Das                       8.76
+12       12621001173        Dipshikha Mondal                   8.76
+12       12621001186        Suravi Chongder                    8.76
+13       12621001165        Akash Dey                          8.74
+14       12621001168        Ayan Halder                        8.6
+14       12621001170        Deb Dutta                          8.6
+14       12621001178        Pritam Joardar                     8.6
+15       12621001183        Subhranil Bhattacharya             8.54
+16       12621001180        Soumadeep Chabri                   8.5
+17       12621001172        Deo Ashish Anand                   8.44
+18       12621001174        Gunjan Roy Pramanik                8.38
+19       12621001176        Monojit Chatterjee                 8.12
+20       12621001169        Bhaskar Singha                     8.06

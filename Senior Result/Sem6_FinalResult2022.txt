@@ -1,0 +1,180 @@
+1       12619001044        ARUNAVA DAS                        9.73
+2       12619001040        ARITRA SAHA                        9.66
+3       12619001009        ADITYA RAY                         9.59
+3       12619001117        RITUPARNA PADIRA                   9.59
+3       12619001154        SOMNATH DEY                        9.59
+4       12619001092        OISHEE SAHA                        9.55
+4       12619001099        PROTIM AICH                        9.55
+4       12619001172        SWAPNIL CHOWDHURY                  9.55
+4       12619001178        URMI JANA                          9.55
+5       12619001166        SUCHANDRA CHAKRABORTY              9.43
+6       12619001042        AROSHI DEY                         9.41
+6       12619001176        TIASHA DASGUPTA                    9.41
+7       12619001123        SACHIN KUMAR                       9.39
+7       12619001180        UTSA GHOSH                         9.39
+8       12619001026        ANKAN BASU                         9.36
+9       12619001161        SUBHADEEP BASU                     9.32
+10       12619001012        AFROZE RAHMAN                      9.27
+10       12619001120        ROUNAK NEOGY                       9.27
+11       12619001047        AVINASH KUMAR SINGH                9.2
+12       12619001094        PALAK PERIWAL                      9.18
+12       12619001136        SAURABH KUMAR                      9.18
+12       12619001149        SHUBHAM KASHYAP                    9.18
+12       12619001158        SOUMYADIP GHOSH                    9.18
+13       12619001053        DEBARPAN BOSE CHOWDHURY            9.14
+13       12619001086        MEGHNA DUTTA                       9.14
+13       12619001119        ROHIT BISWAS                       9.14
+14       12619001134        SATYAM TIWARI                      9.11
+14       12619001141        SHASHWAT MISHRA                    9.11
+15       12619001071        KARTIK ROY                         9.09
+15       12619001168        SUMIT RANJAN CHOUDHARY             9.09
+16       12619001067        HARSHIT YADAV                      9.07
+16       12619001155        SOUMEE MUKHERJEE                   9.07
+17       12619001137        SHADAB DANISH                      9.05
+18       12619001003        ABHISHEK RAY                       9.02
+18       12619001146        SHOVAN AKHULI                      9.02
+19       12619001153        SOMDEB BHATTACHARJEE               9.0
+20       12619001116        RITTIK KUMAR AGARWAL               8.98
+20       12619001184        VIVEK KUMAR                        8.98
+21       12619001135        SAUNAK CHAKRABORTY                 8.93
+22       12619001022        ANANYA MAJUMDAR                    8.91
+22       12619001056        DEBJIT ROY                         8.91
+22       12619001073        KISHAN KUMAR                       8.91
+23       12619001164        SUBHASHIS PAUL                     8.89
+23       12619001169        SUNAYNA BHATTACHARJEE              8.89
+24       12619001041        ARKASHISH SUTRADHAR                8.86
+24       12619001139        SHALINI                            8.86
+25       12619001048        AWANIK KUMAR PANDEY                8.8
+25       12619001068        HIMANSHU                           8.8
+25       12619001069        HRISABH KUMAR JHA                  8.8
+25       12619001108        REETU RAJ HARSH                    8.8
+25       12619001127        SAGNIK CHAKRABORTY                 8.8
+25       12619001165        SUBHASHISH PAUL                    8.8
+25       12619001177        UNNAT AGARWAL                      8.8
+26       12619001011        ADRIKA KUNDU                       8.75
+26       12619001100        QUAZI ASFIA YASMIN                 8.75
+27       12619001085        MD. KASIF                          8.73
+27       12619001122        RUHI DUTTA                         8.73
+27       12619001186        YASH KASHYAP                       8.73
+28       12619001095        PIYUSH KUMAR                       8.7
+29       12619001057        DEBMALLYA SARKAR                   8.68
+29       12619001110        RISHABH KUMAR                      8.68
+30       12619001112        RISHIKA GHOSH                      8.66
+31       12619001020        AMAN KUMAR                         8.64
+31       12619001089        NABANITA JANA                      8.64
+32       12619001147        SHRESHTHA SADHU                    8.61
+33       12619001035        ANURAG NAYAK                       8.59
+34       12619001181        VASANT KUMAR                       8.57
+35       12619001080        MANISH RAI CHODHURY                8.55
+35       12619001115        RITIK KUMAR                        8.55
+36       12619001010        ADITYA ROSHAN JHA                  8.52
+37       12619001038        ARCHITA PANDEY                     8.5
+37       12619001160        SOURAV DEY                         8.5
+37       12619001179        USHNISH DAS                        8.5
+38       12619001072        KESHAV KUMAR                       8.48
+38       12619001090        NANDINI AGRAWAL                    8.48
+39       12619001017        AKSHAT AGARWAL                     8.45
+40       12619001152        SK MIRAJ UDDIN                     8.43
+40       12619001159        SOUNAK MAJUMDAR                    8.43
+41       12619001029        ANKIT KUMAR                        8.39
+41       12619001037        APURVA DAGA                        8.39
+41       12619001144        SHIVAM SHAW                        8.39
+42       12619001016        AKIF AHMED                         8.36
+42       12619001021        ANAND KUMAR                        8.36
+43       12619001124        SACHIN KUMAR                       8.34
+44       12619001025        ANISH KUMAR                        8.27
+45       12619001130        SAHIL                              8.25
+46       12619001167        SUMIT KUMAR PRASAD                 8.2
+47       12619001002        ABHISHEK BHARTI                    8.18
+47       12619001065        HARSHIT KUMAR                      8.18
+47       12619001074        KISHAN KUMAR                       8.18
+48       12619001102        RAJDEEP BISWAS                     8.16
+49       12619001050        BHARAT KUMAR BAID                  8.14
+49       12619001083        MAYANK RAJ                         8.14
+50       12619001151        SIDDHARTHA ROY                     8.11
+51       12619001051        BIDISHA DEB                        8.05
+52       12619001001        ABHAY RANJAN                       8.02
+52       12619001006        ADITYA JAISWAL                     8.02
+52       12619001126        SAGAR SRIVASTAVA                   8.02
+53       12619001023        ANIKET RAJ                         8.0
+53       12619001097        PRATEEK KUMAR SINHA                8.0
+53       12619001104        RAJNEESH KUMAR JHA                 8.0
+53       12619001150        SIDDHARTH RAJ                      8.0
+53       12619001171        SURAJ KUMAR                        8.0
+54       12619001018        ALIVIA SINHA                       7.98
+55       12619001055        DEBAYAN DUTTA                      7.91
+55       12619001129        SAGNIK SARKAR                      7.91
+56       12619001014        AJEET KUMAR                        7.84
+57       12619001078        MADHURIMA SARKAR                   7.8
+58       12619001148        SHRIJITA DAS                       7.77
+58       12619001175        TARUN TAMANG                       7.77
+59       12619001105        RAKESH KUMAR                       7.73
+60       12619001005        ADARSH RAJ                         7.7
+61       12619001070        JAYASREE RAVI                      7.68
+61       12619001084        MAYUKH CHATTERJEE                  7.68
+61       12619001103        RAJESH TEWARI                      7.68
+62       12619001027        ANKIT AGARWAL                      7.64
+62       12619001125        SAGAR KUMAR                        7.64
+63       12619001007        ADITYA KUMAR                       7.61
+63       12619001058        DEVDATTA BISWAS                    7.61
+63       12619001081        MANISHA KUMARI                     7.61
+63       12619001128        SAGNIK MUKHERJEE                   7.61
+63       12619001140        SHAMBO CHATTERJEE                  7.61
+63       12619001145        SHIVAM SHRESTH                     7.61
+63       12619001183        VIKRAMADITYA SINGH                 7.61
+64       12619001054        DEBASHIS SINGHA MAHAPATRA          7.57
+64       12619001061        FAIZ BACHOO SHAH                   7.57
+65       12619001170        SUPRATIK PODDER                    7.55
+66       12619001008        ADITYA NARAYAN                     7.52
+66       12619001066        HARSHIT RAJ                        7.52
+67       12619001030        ANKIT KUMAR                        7.5
+67       12619001093        OM PRAKASH BHARTI                  7.5
+67       12619001113        RISHIKEY YADAV                     7.5
+68       12619001076        KUMAR SANU                         7.48
+69       12619001043        ARPAN MUKHERJEE                    7.45
+69       12619001185        WAJEEHUL KALAM                     7.45
+70       12619001031        ANMOL KUMAR OJHA                   7.41
+71       12619001075        KRISHNA KUMAR SAHU                 7.39
+72       12619001162        SUBHADIP PATRA                     7.36
+73       12619001033        ANSHU KUMAR                        7.3
+73       12619001163        SUBHAM RAJ                         7.3
+74       12619001015        AKASH ANAND                        7.27
+75       12619001046        ASHISH RANJAN                      7.25
+76       12619001064        HARSH WARDHAN                      7.2
+76       12619001114        RITAM NANDI                        7.2
+77       12619001082        MAYANK JAISWAL                     7.16
+78       12619001118        RITURAJ GUHA                       7.14
+78       12619001132        SAKILUR RAHAMAN THANDER            7.14
+79       12619001060        DHRUBA PATRA                       7.11
+79       12619001174        TABEEN IMAM                        7.11
+80       12619001062        GAURAV KUMAR                       7.07
+80       12619001077        KUNAL SINGH                        7.07
+81       12619001111        RISHAV RAJ                         7.05
+82       12619001173        SYED AKIB                          7.02
+83       12619001049        AYUSH KUMAR MISHRA                 6.95
+83       12619001059        DHEERAJ KUMAR RANA                 6.95
+84       12619001039        ARIJIT PAUL                        6.93
+85       12619001028        ANKIT KUMAR                        6.91
+86       12619001138        SHAHIL SINGH                       6.86
+87       12619001045        ASHISH RANJAN                      6.77
+88       12619001091        NISHANT RAJ                        6.75
+89       12619001109        RISHAB CHOWDHURY                   6.7
+90       12619001004        ABHYUDITH SENGUPTA                 6.68
+91       12619001087        MOONMOON MONDAL                    6.64
+92       12619001024        ANIRBIT ROY                        6.59
+93       12619001106        RAMENDU GHOSAL                     6.55
+94       12619001019        AMAAN SIDDIQUI                     6.52
+94       12619001036        ANUSHKA DAS                        6.52
+95       12619001107        RAUNAK GUPTA                       6.5
+96       12619001142        SHIVAM KUMAR                       6.45
+97       12619001063        GOBIND KUMAR DAS                   6.41
+97       12619001156        SOUMYADEEP BISWAS                  6.41
+98       12619001088        MUJTABA BASHEER                    6.34
+99       12619001182        VEDABRATA BANERJEE                 6.23
+100       12619001131        SAIF ALAM KHAN                     6.2
+101       12619001121        RUDRANGSHU CHATTERJEE              6.14
+102       12619001098        PRATIM SAHA                        5.73
+103       12619001101        RAJAT CHATTERJEE                   5.59
+104       12619001034        ANTARIKSH GHOSH                    5.48
+105       12619001079        MAINAK SADHUKHAN                   5.45
+106       12619001032        ANSAR ALI                          5.16

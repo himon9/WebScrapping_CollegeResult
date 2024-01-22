@@ -1,4 +1,5 @@
-1       12620001019        Ananki Banerjee                    10
+This file is for CSE department with roll range 12620001001 to 12620001182
+1       12620001019        Ananki Banerjee                    10.0
 2       12620001076        Manosrija Nasrin                   9.95
 2       12620001133        Sayani Nandi                       9.95
 3       12620001055        Dev Kumar Gupta                    9.81
@@ -124,10 +125,10 @@
 30       12620001082        Naman Kumar Gupta                  9.02
 30       12620001143        Shubham Kumar                      9.02
 30       12620001160        Sukanya Chakravorty                9.02
-31       12620001110        Ronit Das                          9
-31       12620001127        Saurav Suman                       9
-31       12620001144        Shubhangi                          9
-31       12620001152        Srija Biswas                       9
+31       12620001110        Ronit Das                          9.0
+31       12620001127        Saurav Suman                       9.0
+31       12620001144        Shubhangi                          9.0
+31       12620001152        Srija Biswas                       9.0
 32       12620001029        Aritri Sarkar                      8.95
 32       12620001123        Sarah Moid                         8.95
 33       12620001061        Gourab Kundu                       8.93
